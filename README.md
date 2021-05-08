@@ -10,7 +10,7 @@ under the guidance of Prof. Mandar Sohani
 
 # A Web Application to predict Breast Cancer using SVM  (Deployed on Heroku)
 
-![alt text](https://github.com/gayathri1462/Breast-Cancer-Detection-Web-App/blob/main/output.jpeg?raw=true)
+![alt text](https://github.com/gayathri1462/Breast-Cancer-Detection-Web-App/blob/main/output.jpg?raw=true)
 
 
 #### Working link: (Deployed on Heroku) https://c67-breast-cancer-detection.herokuapp.com/
