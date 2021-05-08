@@ -39,9 +39,6 @@ Attribute Information:
 ### 3.Build and Train the model using SVM
 Using SVM (Support Vector Machines) we build and train a model using human cell records, and classify cells to predict whether the samples are benign or malignant.
 ### 4.Flask Creation
-Python app.py
-http://127.0.0.1:5000/
-
 1.	Breast_Cancer_Detection.ipynb — This contains code for the machine learning model to predict cancer based on the class.
 2.	app.py — This contains Flask APIs that receives cells details through GUI or API calls, computes the predicted value based on our model and returns it
 3.	templates & static  — This folders contains the HTML template and CSS styling to allow user to enter cells details and displays the predicted output.
