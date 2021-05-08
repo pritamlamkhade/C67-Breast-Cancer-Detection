@@ -11,7 +11,7 @@ Kreena Sheth: https://www.linkedin.com/in/kreena-sheth-9abb5316b/
 
 under the guidance of **Prof. Mandar Sohani**
 
-### A Web Application to predict Breast Cancer using SVM  (Deployed on Heroku)
+### A Web Application to predict Breast Cancer using SVM
 
 ![alt text](https://github.com/pritamlamkhade/C67-Breast-Cancer-Detection/blob/main/output.JPG?raw=true)
 
@@ -54,4 +54,5 @@ User requires to fill 10 input fields in the form.
 ### 7.Integrating web application with machine learning backend.
 
 ### 8. Deployment on Heroku
+Flask app is deployed on Heroku.
 
