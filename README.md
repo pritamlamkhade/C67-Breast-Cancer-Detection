@@ -16,7 +16,7 @@ under the guidance of **Prof. Mandar Sohani**
 ![alt text](https://github.com/pritamlamkhade/C67-Breast-Cancer-Detection/blob/main/output.JPG?raw=true)
 
 
-#### Working link: (Deployed on Heroku) https://c67-breast-cancer-detection.herokuapp.com/
+#### Working link:  https://c67-breast-cancer-detection.herokuapp.com/
 ### 1.Project Requirements or Dependencies
 * Anaconda Python (to get ML Libraries)
 * Pip install flask (For Front-end)
@@ -49,6 +49,7 @@ Use this pretrained model and connect it with our Flask application.
 Use this for prediction for model and to show the output
 
 ### 6. Adding form to flask app
+User requires to fill 10 input fields in the form.
  
 ### 7.Integrating web application with machine learning backend.
 
