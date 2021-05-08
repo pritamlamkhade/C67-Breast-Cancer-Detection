@@ -1,16 +1,19 @@
 # Breast Cancer Detection Web Application
-By Team BE-C67 
+By Team BE-C67
+
 Team Members:
 
-Pritam Lamkhade: https://www.linkedin.com/in/pritamlamkhade/
-Vijaya Mishra: https://www.linkedin.com/in/mvijaya/
+Pritam Lamkhade : https://www.linkedin.com/in/pritamlamkhade/
+
+Vijaya Mishra : https://www.linkedin.com/in/vijayamishra09/
+
 Kreena Sheth: https://www.linkedin.com/in/kreena-sheth-9abb5316b/
 
 under the guidance of Prof. Mandar Sohani
 
 # A Web Application to predict Breast Cancer using SVM  (Deployed on Heroku)
 
-![alt text](https://github.com/pritamlamkhade/C67-Breast-Cancer-Detection/blob/main/output.JPG?raw=true)
+![alt text](https://github.com/gayathri1462/Breast-Cancer-Detection-Web-App/blob/main/output.jpeg?raw=true)
 
 
 #### Working link: (Deployed on Heroku) https://c67-breast-cancer-detection.herokuapp.com/
