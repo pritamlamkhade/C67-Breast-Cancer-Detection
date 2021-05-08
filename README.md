@@ -17,7 +17,6 @@ under the guidance of Prof. Mandar Sohani
 
 
 #### Working link: (Deployed on Heroku) https://c67-breast-cancer-detection.herokuapp.com/
-
 ### 1.Project Requirements or Dependencies
 * Anaconda Python (to get ML Libraries)
 * Pip install flask (For Front-end)
