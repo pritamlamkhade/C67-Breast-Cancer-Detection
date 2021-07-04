@@ -9,7 +9,7 @@ Vijaya Mishra : https://www.linkedin.com/in/vijayamishra09/
 
 Kreena Sheth: https://www.linkedin.com/in/kreena-sheth-9abb5316b/
 
-under the guidance of **Prof. Mandar Sohani**
+
 
 ### A Web Application to predict Breast Cancer using SVM
 
